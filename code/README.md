@@ -1,7 +1,6 @@
-# Agno Agent Boilerplate
+# Hackathon solution
 
-This is a boilerplate project for implementing Agno agents. It provides a basic structure and example implementation of a custom Agno agent.
-
+This is a hackathon solution for Entity Intelligence and Risk Analysis using AI.
 ## Setup
 
 1. Create a virtual environment (recommended):
