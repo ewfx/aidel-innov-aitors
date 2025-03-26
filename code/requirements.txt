@@ -1,0 +1,15 @@
+agno
+python-dotenv
+duckduckgo-search
+lancedb
+pandas  
+groq
+PyPDF2
+newspaper3k
+lxml_html_clean
+flask 
+scikit-learn
+joblib
+fastapi
+uvicorn
+pathlib
